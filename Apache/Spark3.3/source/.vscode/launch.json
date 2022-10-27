@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "gluesparksubmit: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "C:\\Apache\\Spark3.3\\tools\\spark-3.3.0-bin-hadoop3\\bin\\spark-submit.py",
+            "console": "integratedTerminal",
+            "args" : ["${file}"],
+            "cwd" : "${workspaceFolder}"
+        },
+    ]
+}

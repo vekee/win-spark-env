@@ -1,0 +1,4 @@
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+modules filter=lfs diff=lfs merge=lfs -text
+Code.exe filter=lfs diff=lfs merge=lfs -text
