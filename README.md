@@ -1,7 +1,7 @@
 # win-spark-env
 
 #### Description
-Simple spark environment setup in windows OS.
+A lightweight and ready-to-use Apache Spark environment for Windows development
 
 #### Tools content
     1. spark3.3
